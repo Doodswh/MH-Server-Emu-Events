@@ -1,0 +1,68 @@
+{
+  "Header": {
+    "Magic": "TYP",
+    "Version": 11
+  },
+  "Assets": [
+    {
+      "Id": 9414829528041001452,
+      "Guid": 8315873343584404623,
+      "Flags": 0,
+      "Name": "None"
+    },
+    {
+      "Id": 9498707726733808021,
+      "Guid": 16898778044669494303,
+      "Flags": 0,
+      "Name": "OnHit"
+    },
+    {
+      "Id": 11251101709937545831,
+      "Guid": 14712849796523754548,
+      "Flags": 0,
+      "Name": "OnHealthBelowPctHit"
+    },
+    {
+      "Id": 15372727007423238651,
+      "Guid": 18394800851353601061,
+      "Flags": 0,
+      "Name": "OnDamagedForPctHealth"
+    },
+    {
+      "Id": 17301358896272904707,
+      "Guid": 371498045735830564,
+      "Flags": 0,
+      "Name": "OnInteractedWith"
+    },
+    {
+      "Id": 17910267881806762587,
+      "Guid": 1474667095859266588,
+      "Flags": 0,
+      "Name": "OnKilledMiniBoss"
+    },
+    {
+      "Id": 3567626871840706965,
+      "Guid": 3805481332697400355,
+      "Flags": 0,
+      "Name": "OnKilled"
+    },
+    {
+      "Id": 4101707459630535123,
+      "Guid": 10359971407763014692,
+      "Flags": 0,
+      "Name": "OnKilledChampion"
+    },
+    {
+      "Id": 4513981404772766166,
+      "Guid": 13703918779903378469,
+      "Flags": 0,
+      "Name": "OnKilledElite"
+    },
+    {
+      "Id": 5811615342705119747,
+      "Guid": 15039896094218978335,
+      "Flags": 0,
+      "Name": "OnHealthBelowPct"
+    }
+  ]
+}
