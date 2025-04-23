@@ -1,0 +1,59 @@
+ [
+ {
+    "Enabled": true,
+    "Prototype": "Loot/Tables/Mob/Bosses/SpecialEventsTable.prototype",
+    "Path": "Choices[]",
+    "Description": "[Heroes for Hire] Add DogTagsCurrencyTable drop Gang Member Dog Tags",
+    "ValueType": "PrototypeDataRef",
+    "Value": 16587225871960839503
+  },
+ 
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Vendors/VendorTypes/VendorAvengersTowerEventTerminal.prototype",
+    "Path": "Inventories[0].LootTable",
+    "Description": "Set heroes for hire",
+    "ValueType": "PrototypeId",
+    "Value": 13437915080456018735
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventHeroesForHire.prototype",
+    "Path": "Choices[0].Item",
+    "Description": "Art345BoxDogTags",
+    "ValueType": "PrototypeId",
+    "Value": 14616971938985156416
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventHeroesForHire.prototype",
+    "Path": "Choices[1].Item",
+    "Description": "Insignia147BoxDogTags",
+    "ValueType": "PrototypeId",
+    "Value": 17114521907137487179
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventHeroesForHire.prototype",
+    "Path": "Choices[2].Item",
+    "Description": "LukeCagePaint",
+    "ValueType": "PrototypeId",
+    "Value": 1799523256990835679
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventHeroesForHire.prototype",
+    "Path": "Choices[3].Item",
+    "Description": "HeroesForHirePaint",
+    "ValueType": "PrototypeId",
+    "Value": 7779216397397599763
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventHeroesForHire.prototype",
+    "Path": "Choices[4].Item",
+    "Description": "MysteriousUniqueBoxDogTags",
+    "ValueType": "PrototypeId",
+    "Value": 7779216397397599763
+  }
+  ]

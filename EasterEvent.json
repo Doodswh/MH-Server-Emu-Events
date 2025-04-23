@@ -1,0 +1,511 @@
+[
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter05/MGHBruteNamedCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 17910267881806762587, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter01/MGHStalkerNamedCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 17910267881806762587, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHLeecherTRNamedCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 17910267881806762587, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHPsychicSpawnNamedEliteV01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 17910267881806762587, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter06/MGHBruteTRNamedSpawnCH06.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 17910267881806762587, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHBlasterYellowCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHBlasterYellowMGCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHBruteYellowCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHBruteYellowMGCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHBruteYellowMGD2CH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter04/MGHLeecherYellowCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter01/HydraMeleeYellowCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter01/HydraPlasmaCasterYellowCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter01/HydraPowerBrawlerYellowCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraExobeamYellowCH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraExolaunchYellowCH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraExolaunchYellowD2CH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraGunnerYellowCH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraJetpackYellowCH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraJetpackYellowD2CH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraMeleeYellowCH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter03/HydraSuperAgentYellowNamedCH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Purifiers/Chapter/PurifiersCH05/PurifierAcolyteYellowMGSpawnCH05.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Purifiers/Chapter/PurifiersCH05/PurifierAcolyteYellowCH05.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Purifiers/Chapter/PurifiersCH05/PurifierDestroyerYellowCH05.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 4513981404772766166, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hand/Chapter/HandChapter01/HandNinjaCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hand/Chapter/HandChapter01/HandNinjaCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hand/Chapter/HandChapter03/HandAssassinCH03.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Hydra/Chapter/HydraChapter00/HydraGunnerCH00.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Lavamen/Chapter/LavamenCH04/LavaGuardianSpawnCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Lavamen/Chapter/LavamenCH04/LavamanMeleeSpawnCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Lavamen/Chapter/LavamenCH04/LavamanMeleeSpawnCH04.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/MGH/Chapter/MGHChapter05/MGHPsychicCH05.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/GangMembers/Chapter/GangmemberChapter01/GangmemberBruiserCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/GangMembers/Chapter/GangmemberChapter01/GangmemberBruiserCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Purifiers/Chapter/PurifiersCH05/PurifierAcolyteD2CH05.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/NGarai/Chapter/NGaraiCH02/NgaraiCairnCH02.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/NGarai/Chapter/NGaraiCH02/NgaraiDemonCH02.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Sentinels/Chapter/SentinelsCH05/SentinelCH05.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Sentinels/SentinelBase.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/Maggia/Chapter/MaggiaChapter01/MaggiaCapoCH01.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/AIM/AIMSwarmbotBase.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/AIM/AIMBeamGunnerBase.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/AIM/AIMDroidDrillBase.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/AIM/AIMSpecialistBase.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+  {
+    "Enabled": true,
+    "Prototype": "Entity/Characters/Mobs/AIM/AIMDeathBotCratedBase.prototype",
+    "Path": "Properties",
+    "Description": "Set LootTablePrototype [OnKilledMiniBoss, 0, Spawn, EasterEggHuntObjective]",
+    "ValueType": "Properties",
+    "Value": {
+      "LootTablePrototype": [ 3567626871840706965, 0, 9316722085805298222, 4919439181153312772 ]
+    }
+  },
+     {
+        "Enabled": true,
+        "Prototype": "Entity/Characters/Vendors/VendorTypes/VendorAvengersTowerEventTerminal.prototype",
+        "Path": "Inventories[0].LootTable",
+        "Description": "Set SpecialEventBeast",
+        "ValueType": "PrototypeId",
+        "Value": 2373906110761080777
+    },
+    {
+        "Enabled": true,
+        "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventBeast.prototype",
+        "Path": "Choices[0].Item",
+        "Description": "Set SeasonalLEGhostBox",
+        "ValueType": "PrototypeId",
+        "Value": 17125744616592318656
+    },
+    {
+        "Enabled": true,
+        "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventBeast.prototype",
+        "Path": "Choices[1].Item",
+        "Description": "Set Unique256",
+        "ValueType": "PrototypeId",
+        "Value": 15002683958914522726
+    },
+    {
+        "Enabled": true,
+        "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventBeast.prototype",
+        "Path": "Choices[2].Item",
+        "Description": "Set Unique255",
+        "ValueType": "PrototypeId",
+        "Value": 12471130299355111015
+    },
+    {
+        "Enabled": true,
+        "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventBeast.prototype",
+        "Path": "Choices[3].Item",
+        "Description": "Set Unique290",
+        "ValueType": "PrototypeId",
+        "Value": 3419004986620583528
+    },
+    {
+        "Enabled": true,
+        "Prototype": "Loot/Tables/Vendor/SpecialEvent/SpecialEventBeast.prototype",
+        "Path": "Choices[4].Item",
+        "Description": "Set Unique261",
+        "ValueType": "PrototypeId",
+        "Value": 11270537732959903334
+    }
+	]
